@@ -1,0 +1,6 @@
+matrix_power.c
+setup.py
+matrix.egg-info/PKG-INFO
+matrix.egg-info/SOURCES.txt
+matrix.egg-info/dependency_links.txt
+matrix.egg-info/top_level.txt
